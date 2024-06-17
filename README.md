@@ -236,12 +236,6 @@ void loop() {
   delay(5000);
 }
 ```
-- Testing Project 1
-
-https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/77ed46ee-6767-4876-8115-621e8e4216dd
-
-
-
 
 2. Sambungkan semua hardware yang akan digunakan pada breadboard mengikuti tutorial yang diberikan seperti berikut
 ![image](https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/a015cea2-d7f1-4c20-9870-2e49ee6d0d51)
@@ -407,6 +401,8 @@ https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/7
 - Hasil Web
 ![image](https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/f108375a-869e-4578-9988-ca23e924c8f4)
 
+- Testing Project 1
+https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/77ed46ee-6767-4876-8115-621e8e4216dd
 
 ## Project 2
 ### Alat yang Digunakan
