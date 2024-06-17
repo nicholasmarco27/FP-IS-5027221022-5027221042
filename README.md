@@ -399,7 +399,8 @@ void loop() {
 </html>
 ```
 - Hasil Web
-![image](https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/7fd4856a-67f7-4bce-8401-83dcf001906b)
+![image](https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/f108375a-869e-4578-9988-ca23e924c8f4)
+
 
 ## Project 2
 ### Alat yang Digunakan
