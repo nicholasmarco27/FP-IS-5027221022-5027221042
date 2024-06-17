@@ -7,9 +7,8 @@
 
 ## Project 1
 ### Alat yang Digunakan
-- Sensor DHT22
+- DHT22 Temperature and Humidity Sensor
 - Wemos D1 Mini ESP8266
-- DHT22 Sensor
 - Kabel Jumper
 - Breadboard
 
