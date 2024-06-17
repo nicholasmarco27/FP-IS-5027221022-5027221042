@@ -28,9 +28,9 @@ const char* ssid = "wwowowo";
 const char* pswd = "nicholas27";
 
 const char* mqtt_server = "167.172.87.186"; //Broker IP/URL
-const char* topic = "/afzal-home/room/temperature";    //Topic
-const char* username="afzal";
-const char* password="temp123";
+const char* topic = "/nico/room/temperature";    //Topic
+//const char* username="afzal";
+//const char* password="temp123";
 
 long timeBetweenMessages = 1000 * 20 * 1;
 
@@ -122,7 +122,7 @@ void reconnect() {
     clientId += String(micros() & 0xff, 16); // to randomise. sort of
 
     // Attempt to connect
-    if (client.connect(clientId.c_str(),username,password)) {
+    if (client.connect(clientId.c_str())) {
       Serial.println("connected");
       String subscription;
       subscription += topic;
@@ -236,6 +236,13 @@ void loop() {
   delay(5000);
 }
 ```
+- Testing Project 1
+
+https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/77ed46ee-6767-4876-8115-621e8e4216dd
+
+
+
+
 2. Sambungkan semua hardware yang akan digunakan pada breadboard mengikuti tutorial yang diberikan seperti berikut
 ![image](https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/a015cea2-d7f1-4c20-9870-2e49ee6d0d51)
 ![setup_wemos_sensor](https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/7a06d37e-0916-46df-86c8-c5087b3e6a2c)
