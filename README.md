@@ -457,6 +457,11 @@ client.connect("167.172.87.186", 1883, 60)
 # set the network loop blocking, it will not actively end the program before calling disconnect() or the program crash
 client.loop_forever()
 ```
+- Demo File mqtt_sub.py
+
+https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/03a6430c-e4c1-43f2-9e0b-302889b7eba0
+
+
 
 4. Setup File mqtt_pub.py
 Apabila program sebelumnya mengontrol on/off LED melalui command, maka program ini dibuat untuk memantau suhu ruangan dan mengontrol LED berdasarkan suhu yang terdeteksi. Apabila temp > 1.2 maka LED akan ON, apabila tidak maka LED OFF.
@@ -494,6 +499,12 @@ client.connect("167.172.87.186", 1883, 60)
 # set the network loop blocking, it will not actively end the program before calling disconnect() or the program crash
 client.loop_forever()
 ```
+- Demo file mqtt_pub.py
+
+https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/16323ef4-5c18-4900-83f8-1b570f31bdd6
+
+
+
 5. Buka live server pada file index.html
 ```html
 <!doctype html>
@@ -651,8 +662,14 @@ client.loop_forever()
   </body>
 </html>
 ```
-Tampilan pada Web:
+- Tampilan pada Web:
 ![image](https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/224b9afc-01cf-4563-90c9-ec5bb9ccef0d)
+
+- Demo mengontrol LED dari Web
+
+https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/e2fdd42f-77f6-43fe-a56f-535c8bf4e87f
+
+
 
 
 
