@@ -402,7 +402,11 @@ void loop() {
 ![image](https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/f108375a-869e-4578-9988-ca23e924c8f4)
 
 - Testing Project 1
-https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/77ed46ee-6767-4876-8115-621e8e4216dd
+
+
+https://github.com/nicholasmarco27/FP-IS-5027221022-5027221042/assets/80316798/6aff27d1-2d38-4842-be55-7287fdbedcdf
+
+
 
 ## Project 2
 ### Alat yang Digunakan
